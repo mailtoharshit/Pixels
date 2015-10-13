@@ -5,10 +5,10 @@
 .metadata
 build.properties
 
-#Apex Log as optional
+# Apex Log as optional
 apex-scripts/log
 
-#Eclipse specific 
+# Eclipse specific 
 salesforce.schema
 Referenced Packages
 bin/
@@ -21,12 +21,12 @@ local.properties
 .classpath
 *.cache
 
-#Mavensmate
+# Mavensmate
 *.sublime-project
 *.sublime-settings
 *.sublime-workspace
 config/
 mm.log
 
-#OSX-specific exclusions
+# OSX-specific exclusions
 .[dD][sS]_[sS]tore
