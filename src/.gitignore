@@ -6,8 +6,8 @@
 *.sublime-project
 
 #MavensMate nature exclusions
-config/*
-src/*
+
+/.src
 mm.log
 
 
