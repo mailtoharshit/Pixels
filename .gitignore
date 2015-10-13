@@ -1,13 +1,33 @@
-
+#Project Settings and MetaData
 .project
-.settings
+.settings/
 .metadata
+build.properties
+
+#Apex Log as optional
+apex-scripts/log
+
+#Eclipse specific 
 salesforce.schema
 Referenced Packages
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings
+.loadpath
+.classpath
+*.cache
+
+#Mavensmate
 *.sublime-project
 *.sublime-settings
 *.sublime-workspace
-apex-scripts/log
-build.properties
 config/
 mm.log
+
+#OSX-specific exclusions
+.[dD][sS]_[sS]tore
