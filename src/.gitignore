@@ -7,4 +7,7 @@
 
 #MavensMate nature exclusions
 config/*
+src/classes/*
 mm.log
+
+
