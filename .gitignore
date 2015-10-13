@@ -13,6 +13,7 @@ salesforce.schema
 Referenced Packages
 bin/
 tmp/
+config/
 *.tmp
 *.bak 
 local.properties
@@ -25,7 +26,6 @@ local.properties
 *.sublime-project
 *.sublime-settings
 *.sublime-workspace
-config/
 mm.log
 
 # OSX-specific exclusions
