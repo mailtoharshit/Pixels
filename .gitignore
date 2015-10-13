@@ -1,3 +1,4 @@
+#GitIgnore for Salesforce Projects
 #Project Settings and MetaData
 .project
 .settings/
@@ -13,9 +14,7 @@ Referenced Packages
 bin/
 tmp/
 *.tmp
-*.bak
-*.swp
-*~.nib
+*.bak 
 local.properties
 .settings
 .loadpath
