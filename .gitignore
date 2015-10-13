@@ -1,5 +1,5 @@
-#GitIgnore for Salesforce Projects
-#Project Settings and MetaData
+# GitIgnore for Salesforce Projects
+# Project Settings and MetaData
 .project
 .settings/
 .metadata
